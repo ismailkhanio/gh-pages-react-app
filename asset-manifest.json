@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ismailkhanio/gh-pages-react-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ismailkhanio/gh-pages-react-app.git/static/js/main.23345ce0.chunk.js",
+    "main.js.map": "/ismailkhanio/gh-pages-react-app.git/static/js/main.23345ce0.chunk.js.map",
+    "runtime-main.js": "/ismailkhanio/gh-pages-react-app.git/static/js/runtime-main.3138821d.js",
+    "runtime-main.js.map": "/ismailkhanio/gh-pages-react-app.git/static/js/runtime-main.3138821d.js.map",
+    "static/js/2.d6f0c39a.chunk.js": "/ismailkhanio/gh-pages-react-app.git/static/js/2.d6f0c39a.chunk.js",
+    "static/js/2.d6f0c39a.chunk.js.map": "/ismailkhanio/gh-pages-react-app.git/static/js/2.d6f0c39a.chunk.js.map",
+    "index.html": "/ismailkhanio/gh-pages-react-app.git/index.html",
+    "precache-manifest.d15c213f22a214f47e8e3939ebec3236.js": "/ismailkhanio/gh-pages-react-app.git/precache-manifest.d15c213f22a214f47e8e3939ebec3236.js",
+    "service-worker.js": "/ismailkhanio/gh-pages-react-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ismailkhanio/gh-pages-react-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d6f0c39a.chunk.js.LICENSE.txt": "/ismailkhanio/gh-pages-react-app.git/static/js/2.d6f0c39a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ismailkhanio/gh-pages-react-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3138821d.js",
+    "static/js/2.d6f0c39a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.23345ce0.chunk.js"
+  ]
+}
